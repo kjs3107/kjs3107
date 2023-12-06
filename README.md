@@ -1,8 +1,13 @@
 # 👋 Hi, I'm KETKI SHINDE 
 
-Welcome to my GitHub profile! 🚀 I recently graduated From Electronics and Telecommunication in 2023 and discovered a passion for Artificial Intelligence and Machine Learning. Here's a bit about me:
+Welcome to my GitHub profile! 🚀 I recently graduated From Electronics and Telecommunication in 2023   
+and discovered a passion for Artificial Intelligence and Machine Learning. 
+<img align ="right" alt="coding" width="400" src="![image](https://github.com/kjs3107/kjs3107/assets/141028192/60646b9a-918f-412b-acdd-ee8cc18b49d1)">
 
-- 👀 I’m interested in the intersection of Electronics, Telecommunication, and AI/ML, exploring innovative solutions at this exciting intersection.
+Here's a bit about me:  
+
+- 👀 I’m interested in the intersection of Electronics, Telecommunication, and AI/ML, exploring  
+- innovative solutions at this exciting intersection.
   
 - 🌱 I’m currently learning the ropes of AI/ML, diving into topics like 🤖 Neural Networks and 📊 Data Science.
 
@@ -23,8 +28,8 @@ Welcome to my GitHub profile! 🚀 I recently graduated From Electronics and Tel
   - Email: ketki385@gmail.com
 
 ## About Me
-
-I am a recent graduate with a strong foundation in Electronics and Telecommunication. Intrigued by the endless possibilities of AI and ML, I am on a journey to blend my skills in these domains to create impactful solutions. 🌌
+"In the alchemy of code and curiosity, I, the data scientist, transmute raw data into golden insights, crafting a tapestry of knowledge in the intricate loom of analytics."
+ I am on a journey to blend my skills in these domains to create impactful solutions.🌌..Willing to look forward in this domain....
 
 ## My GitHub Stats
 
