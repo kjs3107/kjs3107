@@ -7,20 +7,20 @@ Welcome to my GitHub profile! 🚀 I recently graduated From Electronics and Tel
 - 🌱 I’m currently learning the ropes of AI/ML, diving into topics like 🤖 Neural Networks and 📊 Data Science.
 
 - 💼 **Skills:**
-  - Programming Languages: Python, Java
-  - Machine Learning: ML-ALGORITHMS 
-  - Statistics
-  - Deep Learning
-  - NLP
-  - Data Visualization
-  - Web Sracping
-  - Power-BI
-  - Tableu
-- 💞️ I’m looking to collaborate on projects that involve the fusion of Electronics, Telecommunication, and AI/ML.
+  - Programming Languages: Python, 
+  - Machine Learning Algo : Classification and Regression Algorithms, Clustering Algorithm, Decision Tree, SVM , Naive Bayes
+  - Statistical methods: Predictive Analysis, Hypothesis Testing ,PCA, Univariate And Bivariate Analysis.Hypothesis Testing ,PCA, Univariate And Bivariate Analysis.
+  - Deep Learning: Basics of  CNN , ANN , RNN  and Neural networks
+  - Libraries and Frameworks: Numpy ,Pandas 
+  - Data Reporting Tool: Matplotlib , Seaborn, Tableau,PowerBi
+  - Deployment: AWS ,Streamlit
+  - Git and Git-Hub
+  
+- 💞️ I’m looking to collaborate on projects that involve the fusion of NLP ,Computer Vision, and AI/ML.
 
 - 📫 **How to reach me:**
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-  - Email: your.email@example.com
+  - LinkedIn: [Ketki Shinde](https://www.linkedin.com/in/ketki-shinde-186118287/)
+  - Email: ketki385@gmail.com
 
 ## About Me
 
