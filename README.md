@@ -6,7 +6,7 @@ and discovered a passion for Artificial Intelligence and Machine Learning.
 
 Here's a bit about me:  
 
-- 👀 I’m interested in the intersection of Electronics, Telecommunication, and AI/ML, exploring  
+- 👀 I’m interested in the intersection of NLP, Computer vision , and AI/ML, exploring  
 - innovative solutions at this exciting intersection.
   
 - 🌱 I’m currently learning the ropes of AI/ML, diving into topics like 🤖 Neural Networks and 📊 Data Science.
